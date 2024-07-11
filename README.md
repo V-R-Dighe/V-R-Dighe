@@ -16,6 +16,9 @@ I'm passionate about contributing to open-source projects. At TrueSparrow, we no
 ## Blogs
 
 - [Enhancing Performance of an AI Assistant: A Journey Towards Efficiency and Accuracy](https://truesparrow.com/blog/enhancing-performance-of-an-ai-assistant/)
+- [My First Open-Source Contribution](https://truesparrow.com/blog/my-first-open-source-contribution/)
+- [Golang Concurrency Pattern: worker pool](https://truesparrow.com/blog/golang-concurrency-pattern-worker-pool/)
+- [Cross-Site Scripting (XSS)](https://truesparrow.com/blog/cross-site-scripting-xss/)
 
 ## Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/vaibhav-dighe-68a765159/)
