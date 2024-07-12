@@ -1,6 +1,5 @@
 # Hi there, I'm Vaibhav! 👋
-
-I am a passionate software developer with a deep affection for technology. Currently, I am a Senior Backend Engineer at [True Sparrow](https://truesparrow.com/), bringing significant product development experience to the table. My expertise lies in creating robust and scalable backend solutions, and I am dedicated to continuous learning and innovation in the tech industry.
+I am a software developer deeply enjoying technology, currently working as a Senior Backend Engineer at [True Sparrow](https://truesparrow.com/). My expertise lies in creating robust and scalable backend solutions, and I am dedicated to continuous learning and innovation in the tech industry.
 
 I am enthusiastic about contributing to open-source projects. At TrueSparrow, we not only bring client ideas to production-quality code but also actively support open-source initiatives.
 ## Notable Projects
